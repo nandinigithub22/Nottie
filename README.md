@@ -9,10 +9,11 @@ Welcome to Nottie! 🎉 A simple and elegant note-taking web application. This p
 
 
 # 🚀 Getting Started
+
 1. Clone this repository:
-  - git clone https://github.com/your-username/Nottie.git
+
 2. Navigate to the project directory:
-  - cd Nottie
+
 3. Open index.html in your favorite web browser to start using Nottie!
 
 
