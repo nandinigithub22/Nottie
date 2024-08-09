@@ -24,6 +24,24 @@ Welcome to Nottie! 🎉 A simple and elegant note-taking web application. This p
 
 
 # Appearance 
+1. Start
+
+![1](https://github.com/user-attachments/assets/b3eeb308-2f74-44fd-b4f6-1ed6fc7630d8)
+
+2. Create Notes
+
+![2](https://github.com/user-attachments/assets/f08eaadc-347b-4713-92e8-009e84baafbd)
+
+
+4. Write Notes
+
+![3](https://github.com/user-attachments/assets/24460dcb-259d-4c57-87d1-e798f1daa59c)
+
+
+7. Delete Notes
+
+ ![4](https://github.com/user-attachments/assets/35b212bd-3a45-477e-b064-4555158020dc)
+
 
 
 
