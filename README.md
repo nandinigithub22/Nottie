@@ -33,22 +33,29 @@ Welcome to Nottie! 🎉 A simple and elegant note-taking web application. This p
 ![2](https://github.com/user-attachments/assets/f08eaadc-347b-4713-92e8-009e84baafbd)
 
 
-4. Write Notes
+3. Write Notes
 
 ![3](https://github.com/user-attachments/assets/24460dcb-259d-4c57-87d1-e798f1daa59c)
 
 
-7. Delete Notes
+4. Delete Notes
 
  ![4](https://github.com/user-attachments/assets/35b212bd-3a45-477e-b064-4555158020dc)
 
 
 
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-💬 Contact
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 💬 Contact
 Feel free to reach out if you have any questions or suggestions!
 Connect with me on LinkedIn or follow me on GitHub.
 
+Email : nandinijunghare07@gmail.com
+Github : https://github.com/nandinigithub22
+Linked In : https://www.linkedin.com/in/nandini-junghare-08943627a/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
